@@ -4,7 +4,7 @@ Jogo 2D feito na Unity para o **Projeto Introdução ao Unity** (Jogos Digitais,
 
 Você é um rato guloso numa cozinha. Coma **todos os queijos** antes que o tempo acabe e fuja dos gatos e das ratoeiras.
 
-- **Jogar no navegador (itch.io):** `COLE AQUI O LINK DO ITCH.IO`
+- **Jogar no navegador (itch.io):** https://canavero.itch.io/rato-guloso-a-corrida-do-queijo
 - **Autor:** Enzo Canavero
 
 ## Como jogar

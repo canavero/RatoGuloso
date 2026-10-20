@@ -41,7 +41,7 @@ Guarde o dash para fugir do gato preto: depois de pegar você, ele fica parado p
 ### Créditos
 
 - **Desenvolvido por:** Enzo Canavero
-- **Código-fonte (GitHub):** [LINK DO REPOSITÓRIO]
+- **Código-fonte (GitHub):** https://github.com/canavero/RatoGuloso
 - Projeto Introdução ao Unity, Jogos Digitais, Insper 2026, baseado no tutorial "Introdução Rápida" da disciplina.
 - Arte, música e efeitos sonoros gerados por código (procedural). Fonte Inter (SIL Open Font License).
 - Código desenvolvido com auxílio do assistente de IA Claude (Anthropic).
